@@ -8,3 +8,4 @@ issue に読んだ論文の概要をまとめて管理しています
 - Finding Universal Grammatical Relations in Multilingual BERT (ACL 2020)
 - Spelling Error Correction with Soft-Masked BERT (ACL 2020)
 - Multi-Task Deep Neural Networks for Natural Language Understanding (ACL 2019)
+- SpanBERT: Improving Pre-training by Representing and Predicting Spans (TACL 2020)
