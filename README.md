@@ -1,7 +1,8 @@
 # paper100knock
 論文100本ノックまとめ
 
-issue に読んだ論文の概要をまとめて管理しています
+issue に読んだ論文をまとめて管理しています
+open にあるものはこれから概要を編集するもの、close にあるものは概要をまとめ終わっているものです
 
 ## 論文リスト
 - Finding Universal Grammatical Relations in Multilingual BERT (ACL 2020)
