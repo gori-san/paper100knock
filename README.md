@@ -12,3 +12,4 @@ issue に読んだ論文の概要をまとめて管理しています
 - Multilingual Denoising Pre-training for Neural Machine Translation (TACL 2020)
 - Non-Autoregressive Neural Machine Translation (ICLR 2018)
 - Distilling Knowledge Learned in BERT for Text Generation (ACL 2020)
+- FastBERT: a Self-distilling BERT with Adaptive Inference Time (ACL 2020)
