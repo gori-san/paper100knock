@@ -4,7 +4,7 @@
 issue に読んだ論文をまとめて管理しています  
 open にあるものはこれから概要を編集するもの、close にあるものは概要をまとめ終わっているものです
 
-## 論文リスト (概要まとめているもののみ)
+## 論文リスト (概要をまとめているもののみ)
 - Finding Universal Grammatical Relations in Multilingual BERT (ACL 2020)
 - Spelling Error Correction with Soft-Masked BERT (ACL 2020)
 - Multi-Task Deep Neural Networks for Natural Language Understanding (ACL 2019)
