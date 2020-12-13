@@ -9,3 +9,6 @@ issue に読んだ論文の概要をまとめて管理しています
 - Multi-Task Deep Neural Networks for Natural Language Understanding (ACL 2019)
 - SpanBERT: Improving Pre-training by Representing and Predicting Spans (TACL 2020)
 - BART : Denoising Sequence-to-Sequence Pre-training for Natural Language Generation , Translation , and Comprehension (ACL 2020)
+- Multilingual Denoising Pre-training for Neural Machine Translation (TACL 2020)
+- Non-Autoregressive Neural Machine Translation (ICLR 2018)
+- Distilling Knowledge Learned in BERT for Text Generation (ACL 2020)
